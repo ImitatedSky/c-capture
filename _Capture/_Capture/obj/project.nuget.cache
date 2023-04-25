@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKeK4GZ7p/KychgJ62UbH7ADXQDGDVQmyW1NDHq51IHozR94TjaUqYLWUMfMwBUs92rAmYtIXabhFa4sPvKKJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pochu\\Desktop\\capture\\Capture\\_Capture\\_Capture\\_Capture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pochu\\.nuget\\packages\\directshowlib\\1.0.0\\directshowlib.1.0.0.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.cv.bitmap\\4.7.0.5276\\emgu.cv.bitmap.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.cv.runtime.windows\\4.7.0.5276\\emgu.cv.runtime.windows.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.cv.ui\\4.7.0.5276\\emgu.cv.ui.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.arm64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x86.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\pochu\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
