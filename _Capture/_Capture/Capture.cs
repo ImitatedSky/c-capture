@@ -13,8 +13,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using emgucv = Emgu.CV;
-using Emgu.CV.UI;
 using Emgu.CV.Structure;
+
+
 
 namespace _Capture
 {
@@ -104,7 +105,12 @@ namespace _Capture
 
         private void oKToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //imageBox.Image.Save("Fvcap.bmp");
+            Emgu.CV.Image<Rgb, Byte> image;
+            image = imageBox.Image.GetInputArray().GetMat().ToImage<Rgb, byte>();
+
+            image.Save("Fvcap.bmp");
+
+            Console.WriteLine("Ok");
             Close();
         }
 
