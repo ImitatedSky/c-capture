@@ -19,7 +19,7 @@ using Emgu.CV.Structure;
 
 namespace _Capture
 {
-    //test upload github
+    
     public partial class Capture : Form
     {
         SerialPort port;
